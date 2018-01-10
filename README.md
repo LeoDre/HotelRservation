@@ -11,5 +11,8 @@ Users can register as a new client at the front page
 -MySQL  
 --ER.pdf (The ER diagram for the database)  
 --SQL.pdf (The SQL schema. Schema is not 100% based on the ER diagram)  
+##  Server Information
+-**SQL Server**: aws RDS (MySQL)  
+-**Web Server**: aws EC2 (tomcat7)  
 ## Contributions
 **Team Members**: Ran Sa, Pu Chen, Dingbang Chen, Yaowen Zhang, Ziru Liu
