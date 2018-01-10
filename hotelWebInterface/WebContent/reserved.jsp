@@ -18,7 +18,8 @@
 				
 				
 				// get parameter
-				int cid = Integer.parseInt(list.get(0));
+				String ciid = list.get(0);
+				int cid = Integer.parseInt(ciid);
 				int room_no = Integer.parseInt(list.get(4));
 				int hotelid = Integer.parseInt(list.get(3));
 				String inDate = list.get(1);
